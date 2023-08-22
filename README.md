@@ -62,13 +62,13 @@ Undoubtedly, Rust! While it might play hard-to-get initially, the safety and con
 
 While solo ventures like my language project [`mag`](https://github.com/mag-language) hold a special place, the vastness of space (and code) always feels better when shared. I'm eager to collaborate and join forces with fellow cosmic adventurers!
 
-# 🎉 Fun Fact?
-
-Still gazing at the stars, looking for that one fun celestial mystery about myself! 😉
-
 # 🌱 Learning & Explorations
 
 - Distance detection with centimeter accuracy on ultra-wideband capable platforms like the ESP32-WROOM development boards with a mounted DWM3000 for [`LEDswarm`](https://github.com/LEDswarm) games, and angle calculation using controller distances and the Pythagorean theorem.
+
+# 🎉 Fun Fact?
+
+Still gazing at the stars, looking for that one fun celestial mystery about myself! 😉
 
 # 🛠️ Technologies & Tools
 
