@@ -54,6 +54,10 @@ A game using LED controllers equipped with accelerometers. As players move their
 
 The concept is based [overflo](https://github.com/overflo23)'s [`ghoust`](https://github.com/Ghoust-game/ghoust) game, and especially the Last One Standing game mode is derived from the original version.
 
+# 🌱 Learning & Explorations
+
+- Distance detection with centimeter accuracy on ultra-wideband capable platforms like the ESP32-WROOM development boards with a mounted DWM3000 for [`LEDswarm`](https://github.com/LEDswarm) games, and angle calculation using controller distances and the Pythagorean theorem.
+
 # 💡 Tech love at first sight?
 
 Undoubtedly, Rust! While it might play hard-to-get initially, the safety and concurrency guarantees it provides are unparalleled. It's like having a vigilant guardian angel by your code's side.
@@ -61,10 +65,6 @@ Undoubtedly, Rust! While it might play hard-to-get initially, the safety and con
 # 👥 Are you a lone astronaut or part of a crew?
 
 While solo ventures like my language project [`mag`](https://github.com/mag-language) hold a special place, the vastness of space (and code) always feels better when shared. I'm eager to collaborate and join forces with fellow cosmic adventurers!
-
-# 🌱 Learning & Explorations
-
-- Distance detection with centimeter accuracy on ultra-wideband capable platforms like the ESP32-WROOM development boards with a mounted DWM3000 for [`LEDswarm`](https://github.com/LEDswarm) games, and angle calculation using controller distances and the Pythagorean theorem.
 
 # 🎉 Fun Fact?
 
