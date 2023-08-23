@@ -45,6 +45,8 @@ Mag is based on the Magpie language by Robert Nystrom, who is a language enginee
 
 However, since there are a few syntactical differences to the original Magpie language, the two languages are source-incompatible and thus have different names. In particular, Bob's implementation substitutes the dot commonly used for calling methods on objects with a space (usually a meaningless character), which I find rather unintuitive, especially for new programmers.
 
+Moreover, this project serves as great exercise for the creation of programming languages.
+
 ---
 
 ## [`LEDswarm`](https://github.com/LEDswarm)
