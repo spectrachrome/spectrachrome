@@ -96,7 +96,7 @@ Still gazing at the stars, looking for that one fun celestial mystery about myse
 
 # 📊 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectrachrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectrachrome&theme=radical&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectrachrome&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 🤝 How to Connect
 
