@@ -97,7 +97,7 @@ Still gazing at the stars, looking for that one fun celestial mystery about myse
 # 📊 GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectrachrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spectrachrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 # 🤝 How to Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-riede-a73147144/)
