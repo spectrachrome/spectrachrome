@@ -30,10 +30,18 @@ This is an micro-app which lives in an `iframe` and receives various commands, i
 
 ---
 
+## [`EOxMinesweeper`](https://github.com/spectrachrome/eox-minesweeper)
+
+A geospatial variation of the classic Minesweeper game made to be integrated into [`eodash`](https://github.com/eurodatacube/eodash) and adapted to take GeoTIFF files as input, randomizing subboxes in the same aspect ratio to provide some variation in game boards.
+
+<img width="1307" alt="Screenshot 2024-04-19 at 16 29 27" src="https://github.com/spectrachrome/spectrachrome/assets/94269527/2d770f27-b7ea-4ab6-89ae-86b0e3892079">
+
+
+---
+
 ## [`EOxElements`](https://github.com/EOX-A/EOxElements)
 
 The [`EOxElements`](https://github.com/EOX-A/EOxElements) repository provides a library of common web components for Earth Observation, such as maps, a layer switcher and more, where I am responsible for the general EOX style and implement new functionality and layouts for various components in the library.
-
 
 # 🙆‍♂️ Personal Projects
 
