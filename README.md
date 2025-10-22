@@ -12,13 +12,13 @@ My name is Moritz and I'm a multi-purpose developer with a passion for aesthetic
 
 Diving deep into Vue and various other development tools, I build digital bridges between the vast universe of Earth Observation data and web users to make intricate space insights feel like backyard stargazing.
 
-# 🛰️ Work Projects
+# 🛰️ Work experience
 
 I work on multiple projects at EOX, most notably the Earth Observation Dashboard, where I implement features and fix bugs in our graphical front-end for ESA, NASA and JAXA on a daily basis. Furthermore, I develop a renderer for scrollytelling stories as a micro-app, which shows how ESA is working to help the environment by displaying the official stories of the Green Transition Information Factory in a storytelling format.
 
 ## [`eodash`](https://github.com/eurodatacube/eodash)
 
-The EO Dashboard (eodash) is an initiative that utilizes Earth Observation (EO) satellite data to monitor various global challenges, including the impacts of the COVID-19 pandemic on the environment and human society. It serves as a collaborative platform where multiple space agencies share data and insights to provide real-time information on key indicators, assisting decision-makers and the public to gain a clearer insight into the situation.
+The `eodash` Earth Observation dashboard is a feature-rich platform to monitor various global happenings that can be observed with remote sensing by satellite, including the monitoring of airborne chemicals like methane, CO2, N2O, traffic of cars, trucks and ships, and even inflow of sunlight to solar panels – I implemented an adjustable circle dial, allowing you select a range of hours during the day and adjust it to see the map update in real-time showing the influx of light at particular locations during that time period.
 
 ---
 
