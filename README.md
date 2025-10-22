@@ -57,8 +57,7 @@ Moreover, this project serves as great exercise for the creation of programming 
 
 ## [`LEDswarm`](https://github.com/LEDswarm)
 
-A game using LED controllers equipped with accelerometers. As players move their controllers, the LEDs respond: stay below a movement threshold, and the LEDs remain green. Exceed that jolt threshold, and the LEDs shift towards red. The objective is to induce movements in other players' controllers to push their LEDs to red, while carefully avoiding such jolts for your own. The "territory mode" expands on this by letting teams "tag" others with their unique color.
-
+A controller game where people interact, collaborate and conspire against each other using handheld lights that react to movement, orientation and proximity.
 
 The concept is based [overflo](https://github.com/overflo23)'s [`ghoust`](https://github.com/Ghoust-game/ghoust) game, and especially the Last One Standing game mode is derived from the original version.
 
