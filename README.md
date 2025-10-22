@@ -14,23 +14,21 @@ Diving deep into Vue and various other development tools, I build digital bridge
 
 # 🛰️ Work experience
 
+## EOX
+
 I work on multiple projects at EOX, most notably the Earth Observation Dashboard, where I implement features and fix bugs in our graphical front-end for ESA, NASA and JAXA on a daily basis. Furthermore, I develop a renderer for scrollytelling stories as a micro-app, which shows how ESA is working to help the environment by displaying the official stories of the Green Transition Information Factory in a storytelling format.
 
-## [`eodash`](https://github.com/eurodatacube/eodash)
+### [`eodash`](https://github.com/eurodatacube/eodash)
 
 The `eodash` Earth Observation dashboard is a feature-rich platform to monitor various global happenings that can be observed with remote sensing by satellite, including the monitoring of airborne chemicals like methane, CO2, N2O, traffic of cars, trucks and ships, and even inflow of sunlight to solar panels – I implemented an adjustable circle dial, allowing you select a range of hours during the day and adjust it to see the map update in real-time showing the influx of light at particular locations during that time period.
 
----
-
-## [`microscrolly`](https://github.com/spectrachrome/microscrolly)
+### [`microscrolly`](https://github.com/spectrachrome/microscrolly)
 
 My embedded renderer for scrollytelling stories, built upon the Intersection Observer API.
 
 This is an micro-app which lives in an `iframe` and receives various commands, including the scrollytelling data, over its PostMessage API and even allows passing Vue components defined as JSON directly into the scrollytelling engine if there is potential to avoid redundancy.
 
----
-
-## [`EOxMinesweeper`](https://github.com/spectrachrome/eox-minesweeper)
+### [`EOxMinesweeper`](https://github.com/spectrachrome/eox-minesweeper)
 
 A geospatial variation of the classic Minesweeper game made to be integrated into [`eodash`](https://github.com/eurodatacube/eodash) and adapted to take GeoTIFF files as input, randomizing subboxes in the same aspect ratio to provide some variation in game boards.
 
